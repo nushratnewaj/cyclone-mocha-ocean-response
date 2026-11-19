@@ -4,10 +4,10 @@ Code for the paper:
 
 > Newaj, N. B., Sarder, S. R., Musa, M. A., Sarah, A. S., Trisha, I. J. M., Sowrav, S. F. F., & Rahman, S. M. M. *Transient upper-ocean and biogeochemical response to Cyclone Mocha (2023) in the Bay of Bengal: separating the storm signal from the pre-monsoon seasonal cycle.* Journal of Earth and Ocean Science (under review).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-**Code:** https://github.com/[username]/[repository]
-**Archived code and processed data (Zenodo):** https://doi.org/10.5281/zenodo.XXXXXXX
+
+**Code:** (https://github.com/nushratnewaj/cyclone-mocha-ocean-response)
+**Archived code and processed data (Zenodo):** (https://doi.org/10.5281/zenodo.24379632)
 
 ---
 
@@ -32,7 +32,7 @@ requirements.txt
 LICENSE
 ```
 
-The input data, gridded intermediates and all results are not stored on GitHub because of their size. Download them from Zenodo (https://doi.org/10.5281/zenodo.XXXXXXX) and unpack them next to this repository:
+The input data, gridded intermediates and all results are not stored on GitHub because of their size. Download them from Zenodo ((https://doi.org/10.5281/zenodo.24379632)) and unpack them next to this repository:
 
 ```
 <root>/Mocha_code/                  this repository
@@ -85,7 +85,7 @@ Code: MIT (see `LICENSE`). Processed data on Zenodo: CC BY 4.0.
 
 If you use this code or data, please cite the paper and the Zenodo archive:
 
-> Newaj, N. B., et al. (2026). Code and processed data for: Transient upper-ocean and biogeochemical response to Cyclone Mocha (2023) in the Bay of Bengal (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Newaj, N. B., et al. (2026). Code and processed data for: Transient upper-ocean and biogeochemical response to Cyclone Mocha (2023) in the Bay of Bengal (v1.0) [Data set]. Zenodo. (https://doi.org/10.5281/zenodo.24379632)
 
 ## Contact
 
