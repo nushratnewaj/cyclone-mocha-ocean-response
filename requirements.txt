@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+openpyxl>=3.1
+# system library: HDF5 (libhdf5), used by scripts/h5lite.py
+# Colab notebook only: xarray, netCDF4, gsw, copernicusmarine, cdsapi
